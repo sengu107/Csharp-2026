@@ -1,5 +1,7 @@
 Họ Tên : Hoàng Kim Sang 
+
 Lớp : D19QTANM1
+
 Lý Thuyết - Bài Làm
 
 Câu 1: Trình bày sự khác nhau giữa Value Types (Kiểu giá trị) và Reference Types (Kiểu tham chiếu) trong C# về cơ chế lưu trữ vùng nhớ (Stack vs Heap).
