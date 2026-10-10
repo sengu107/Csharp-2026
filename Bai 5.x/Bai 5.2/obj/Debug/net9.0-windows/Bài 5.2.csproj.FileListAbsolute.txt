@@ -1,0 +1,16 @@
+C:\Users\SenChan\source\repos\Bài 5.2\Bài 5.2\bin\Debug\net9.0-windows\Bài 5.2.exe
+C:\Users\SenChan\source\repos\Bài 5.2\Bài 5.2\bin\Debug\net9.0-windows\Bài 5.2.deps.json
+C:\Users\SenChan\source\repos\Bài 5.2\Bài 5.2\bin\Debug\net9.0-windows\Bài 5.2.runtimeconfig.json
+C:\Users\SenChan\source\repos\Bài 5.2\Bài 5.2\bin\Debug\net9.0-windows\Bài 5.2.dll
+C:\Users\SenChan\source\repos\Bài 5.2\Bài 5.2\bin\Debug\net9.0-windows\Bài 5.2.pdb
+C:\Users\SenChan\source\repos\Bài 5.2\Bài 5.2\obj\Debug\net9.0-windows\Bài_5._2.DichVu.resources
+C:\Users\SenChan\source\repos\Bài 5.2\Bài 5.2\obj\Debug\net9.0-windows\Bài 5.2.csproj.GenerateResource.cache
+C:\Users\SenChan\source\repos\Bài 5.2\Bài 5.2\obj\Debug\net9.0-windows\Bài 5.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SenChan\source\repos\Bài 5.2\Bài 5.2\obj\Debug\net9.0-windows\Bài 5.2.AssemblyInfoInputs.cache
+C:\Users\SenChan\source\repos\Bài 5.2\Bài 5.2\obj\Debug\net9.0-windows\Bài 5.2.AssemblyInfo.cs
+C:\Users\SenChan\source\repos\Bài 5.2\Bài 5.2\obj\Debug\net9.0-windows\Bài 5.2.csproj.CoreCompileInputs.cache
+C:\Users\SenChan\source\repos\Bài 5.2\Bài 5.2\obj\Debug\net9.0-windows\Bài 5.2.dll
+C:\Users\SenChan\source\repos\Bài 5.2\Bài 5.2\obj\Debug\net9.0-windows\refint\Bài 5.2.dll
+C:\Users\SenChan\source\repos\Bài 5.2\Bài 5.2\obj\Debug\net9.0-windows\Bài 5.2.pdb
+C:\Users\SenChan\source\repos\Bài 5.2\Bài 5.2\obj\Debug\net9.0-windows\Bài 5.2.genruntimeconfig.cache
+C:\Users\SenChan\source\repos\Bài 5.2\Bài 5.2\obj\Debug\net9.0-windows\ref\Bài 5.2.dll
