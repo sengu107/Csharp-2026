@@ -5,3 +5,7 @@
 - **Lớp:** D19QTANM1
 - **Tên môn học:** Lập trình C# 
 - **Tên bài tập:** Bài 5.1,5.2,5.3,5.4
+
+
+
+TEST CASE ở trong thư mục Screenshot
