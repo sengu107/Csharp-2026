@@ -1,0 +1,19 @@
+C:\Users\SenChan\source\repos\Bai 4.7\Bai 4.7\bin\Debug\net9.0-windows\Bai 4.7.exe
+C:\Users\SenChan\source\repos\Bai 4.7\Bai 4.7\bin\Debug\net9.0-windows\Bai 4.7.deps.json
+C:\Users\SenChan\source\repos\Bai 4.7\Bai 4.7\bin\Debug\net9.0-windows\Bai 4.7.runtimeconfig.json
+C:\Users\SenChan\source\repos\Bai 4.7\Bai 4.7\bin\Debug\net9.0-windows\Bai 4.7.dll
+C:\Users\SenChan\source\repos\Bai 4.7\Bai 4.7\bin\Debug\net9.0-windows\Bai 4.7.pdb
+C:\Users\SenChan\source\repos\Bai 4.7\Bai 4.7\obj\Debug\net9.0-windows\Bai_4._6.FormLogin.resources
+C:\Users\SenChan\source\repos\Bai 4.7\Bai 4.7\obj\Debug\net9.0-windows\Bai_4._6.FormMain.resources
+C:\Users\SenChan\source\repos\Bai 4.7\Bai 4.7\obj\Debug\net9.0-windows\Bai_4._6.FormProduct.resources
+C:\Users\SenChan\source\repos\Bai 4.7\Bai 4.7\obj\Debug\net9.0-windows\Bai_4._6.FormStudent.resources
+C:\Users\SenChan\source\repos\Bai 4.7\Bai 4.7\obj\Debug\net9.0-windows\Bai 4.7.csproj.GenerateResource.cache
+C:\Users\SenChan\source\repos\Bai 4.7\Bai 4.7\obj\Debug\net9.0-windows\Bai 4.7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SenChan\source\repos\Bai 4.7\Bai 4.7\obj\Debug\net9.0-windows\Bai 4.7.AssemblyInfoInputs.cache
+C:\Users\SenChan\source\repos\Bai 4.7\Bai 4.7\obj\Debug\net9.0-windows\Bai 4.7.AssemblyInfo.cs
+C:\Users\SenChan\source\repos\Bai 4.7\Bai 4.7\obj\Debug\net9.0-windows\Bai 4.7.csproj.CoreCompileInputs.cache
+C:\Users\SenChan\source\repos\Bai 4.7\Bai 4.7\obj\Debug\net9.0-windows\Bai 4.7.dll
+C:\Users\SenChan\source\repos\Bai 4.7\Bai 4.7\obj\Debug\net9.0-windows\refint\Bai 4.7.dll
+C:\Users\SenChan\source\repos\Bai 4.7\Bai 4.7\obj\Debug\net9.0-windows\Bai 4.7.pdb
+C:\Users\SenChan\source\repos\Bai 4.7\Bai 4.7\obj\Debug\net9.0-windows\Bai 4.7.genruntimeconfig.cache
+C:\Users\SenChan\source\repos\Bai 4.7\Bai 4.7\obj\Debug\net9.0-windows\ref\Bai 4.7.dll
