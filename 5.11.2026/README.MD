@@ -13,6 +13,6 @@ Bài 6.1
 
 Bài 6.2
 ![Màn hình chính 1](Bai%206.2/Bai%206.2/screenshot/DashBoard(1).png)
-![Màn hình chính 2](Bai%206.2/Bai%206.2/screenshot/Dashboard(2).png)
+![Màn hình chính 2](Bai%206.2/Bai%206.2/screenshot/Dashboard%20(2).png)
 ![Minh họa CSDL](Bai%206.2/Bai%206.2/screenshot/Database%20Testing.png)
 ![Minh họa Xử lý lỗi](Bai%206.2/Bai%206.2/screenshot/SQL%20INJECTION.png)
