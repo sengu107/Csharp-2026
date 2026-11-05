@@ -14,3 +14,5 @@ CÀI ĐẶT
 - Chạy 5.x.snl
 
 HÌNH ẢNH NẰM TRONG 5.x\5.x\screenshot bao gồm : Dashboard , Validation_check (có thể là gif image), CURD (nếu có)
+
+Note : Folder sai ngày là 30/10 thành 30/11
