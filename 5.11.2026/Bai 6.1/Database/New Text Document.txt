@@ -1,0 +1,67 @@
+DROP DATABASE IF EXISTS Market;
+CREATE DATABASE Market
+    CHARACTER SET utf8mb4
+    COLLATE utf8mb4_unicode_ci;
+USE Market;
+
+CREATE TABLE NhanVien (
+    MaNV INT AUTO_INCREMENT PRIMARY KEY,
+    TenNV VARCHAR(100) NOT NULL,
+    SoDienThoai VARCHAR(15) UNIQUE,
+    ChucVu VARCHAR(50)
+) ENGINE=InnoDB;
+
+CREATE TABLE KhachHang (
+    MaKH INT AUTO_INCREMENT PRIMARY KEY,
+    TenKH VARCHAR(100) NOT NULL,
+    DienThoai VARCHAR(15) UNIQUE,
+    DiemTichLuy INT DEFAULT 0
+) ENGINE=InnoDB;
+
+CREATE TABLE SanPham (
+    MaSP VARCHAR(20) PRIMARY KEY,
+    TenSP VARCHAR(150) NOT NULL,
+    GiaBan DECIMAL(18,2),
+    SoLuongTon INT,
+    CONSTRAINT chk_giaban CHECK (GiaBan > 0),
+    CONSTRAINT chk_soluongton CHECK (SoLuongTon >= 0)
+) ENGINE=InnoDB;
+
+CREATE TABLE HoaDon (
+    MaHD INT AUTO_INCREMENT PRIMARY KEY,
+    NgayLap DATETIME DEFAULT CURRENT_TIMESTAMP,
+    MaNV INT NOT NULL,
+    MaKH INT NULL,
+    TongTien DECIMAL(18,2),
+    CONSTRAINT fk_hd_nv FOREIGN KEY (MaNV) REFERENCES NhanVien(MaNV),
+    CONSTRAINT fk_hd_kh FOREIGN KEY (MaKH) REFERENCES KhachHang(MaKH)
+) ENGINE=InnoDB;
+
+CREATE TABLE ChiTietHoaDon (
+    MaHD INT,
+    MaSP VARCHAR(20),
+    SoLuong INT,
+    DonGia DECIMAL(18,2),
+    PRIMARY KEY (MaHD, MaSP),
+    CONSTRAINT fk_ct_hd FOREIGN KEY (MaHD) REFERENCES HoaDon(MaHD),
+    CONSTRAINT fk_ct_sp FOREIGN KEY (MaSP) REFERENCES SanPham(MaSP),
+    CONSTRAINT chk_soluong CHECK (SoLuong > 0)
+) ENGINE=InnoDB;
+
+-- =========================================================
+-- Du lieu mau
+-- =========================================================
+INSERT INTO NhanVien (TenNV, SoDienThoai, ChucVu) VALUES
+('Nguyen Van A', '0901111111', 'Quan ly'),
+('Tran Thi B', '0902222222', 'Thu ngan');
+
+INSERT INTO KhachHang (TenKH, DienThoai, DiemTichLuy) VALUES
+('Le Van C', '0903333333', 0),
+('Khach le', NULL, 0);
+
+INSERT INTO SanPham (MaSP, TenSP, GiaBan, SoLuongTon) VALUES
+('SP001', 'Ao thun trang', 150000, 50),
+('SP002', 'Quan jeans xanh', 350000, 30),
+('SP003', 'Giay the thao', 550000, 20),
+('SP004', 'Non luoi trai', 90000, 100),
+('SP005', 'That lung da', 220000, 40);
